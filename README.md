@@ -17,11 +17,10 @@ The project is designed as a learning-focused full-stack Django application and 
 
 ## 📸 Screenshots
 
-- **Dashboard:** ![Dashboard Screenshot](screenshots/DASHBOARD.png)
-- **Add Task:**  ![Add Task Screenshot](screenshots/add_task.png)
-- **Edit Task:** ![Edit Task Screenshot](screenshots/edit_task.png)
-- **Delete Confirmation:**  ![Delete Confirmation Screenshot](screenshots/delete_task.png)
-- **Login Page:**  ![Login Page Screenshot](screenshots/login.png)
+- **Dashboard:** ![Dashboard Screenshot](screenshots/task-dashboard.png)
+- **Add Task:**  ![Add Task Screenshot](screenshots/add-task-page.png)
+- **Delete Confirmation:**  ![Delete Confirmation Screenshot](screenshots/delete-task-confirm-page.png)
+- **Login Page:**  ![Login Page Screenshot](screenshots/login-page.png)
 
 ## 🚀 Installation & Setup
 

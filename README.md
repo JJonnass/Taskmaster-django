@@ -1,4 +1,4 @@
-# TaskForge
+# TaskMaster
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Django](https://img.shields.io/badge/Django-6.0-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 

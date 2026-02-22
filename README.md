@@ -78,7 +78,7 @@ Admin: http://127.0.0.1:8000/admin/
 ```bash tree
 taskmaster/
 ├── manage.py
-├── taskmaster/        # Project configuration
+├── taskmaster_config/        # Project configuration
 │   ├── settings.py
 │   ├── urls.py
 │   ├── asgi.py
